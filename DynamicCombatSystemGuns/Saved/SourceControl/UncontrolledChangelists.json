@@ -7,7 +7,15 @@
 			"files": [
 				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Blueprints/BP_CombatCharacter.uasset",
 				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Widgets/WB_InGame.uasset",
-				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Widgets/Stats/WB_StatBar.uasset"
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Widgets/Stats/WB_StatBar.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/Demo/Animations/BP_ThirdPersonGameMode.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/Demo/Animations/BP_PlayerCharacter.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/NPC.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/Demo/Animations/NPC.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Widgets/Crosshair/WB_Crosshair_Default.uasset"
 			]
 		}
 	]
