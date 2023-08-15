@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 DynamicCombatSystemGuns/Saved/Logs/DynamicCombatSystemGuns.log
+DynamicCombatSystemGuns/Saved/Autosaves
+DynamicCombatSystemGuns/Saved
