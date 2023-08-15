@@ -10,12 +10,14 @@
 				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Widgets/Stats/WB_StatBar.uasset",
 				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/VehicleTemplate/Input/IMC_Default.uasset",
 				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/NPC.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Widgets/Crosshair/WB_Crosshair_Default.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/Demo/DemoRoom/DemoLevel_BuiltData.uasset",
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/Demo/DemoRoom/DemoLevel.umap",
 				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/Demo/Animations/BP_ThirdPersonGameMode.uasset",
 				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/Demo/Animations/BP_PlayerCharacter.uasset",
-				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/NPC.uasset",
-				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/Demo/Animations/NPC.uasset",
-				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
-				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/DynamicCombatSystem/DCS/Widgets/Crosshair/WB_Crosshair_Default.uasset"
+				"E:/.Ausbildung/Eigene Projekte/OpenWorldPrototype/DynamicCombatSystemGuns/Content/Man/Demo/Animations/NPC.uasset"
 			]
 		}
 	]
